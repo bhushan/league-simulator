@@ -1,0 +1,20 @@
+{
+  "en": {
+    "leagueTableHeading": "League Table (Upto week {weekNumber})",
+    "week": "Week",
+    "teams": "Teams",
+    "points": "PTS",
+    "played": "P",
+    "won": "W",
+    "draw": "D",
+    "lost": "L",
+    "goalDifference": "GD",
+    "matchResults": "Match Results",
+    "matchResultHeading": "Week {weekNumber} Match Result",
+    "edit": "Edit",
+    "save": "Save",
+    "playAll": "Play All",
+    "nextWeek": "Next Week",
+    "predictionHeading": "Week {weekNumber} Predictions of Championship"
+  }
+}
