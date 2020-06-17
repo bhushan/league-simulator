@@ -51,7 +51,7 @@ cd league-simulator
 composer install
 ```
 
-- Install Npn dependencies
+- Install NPM dependencies
 
 ```
 npm install
