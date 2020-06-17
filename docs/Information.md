@@ -13,24 +13,25 @@
 
 - PHP >= 7.2
 - MySQL
+- Laravel
 - Vue.js
-- HTML + Tailwind css
+- Tailwind css
 
 # Good to know notes
 
 - ## League Rules
 
-    a. If team won : 3 points
+    a. If team won : 3 points.
 
-    b. If team draw : 1 point for each team
+    b. If team draw : 1 point for each team.
 
-    c. If team lost : 0 point
+    c. If team lost : 0 point.
     
-    d. GD : Subtraction between goals scored and goals conceded (i.e.  difference of <goals scored> - <goal conceded> in all matches)
+    d. GD : Subtraction between goals scored and goals conceded (i.e.  difference of <goals scored> - <goal conceded> in all matches).
     
     e. 2 matches per week: As most of the premier league matches are on saturday and sunday afternoons.
 
-    f. League duration: It will be in a number of weeks. It depends on the number of teams. For e.g.,  If we have four teams then total number of matches played will be 6 (i.e. each team will play with other team twice [Home,Away match] ) that means there will be 3 weeks 
+    f. League duration: It will be in a number of weeks. It depends on the number of teams. For e.g.,  If we have four teams then total number of matches played will be 12 (i.e. each team will play with other team twice [Home,Away match] ) that means there will be 6 weeks. 
 
 
 - ## Data generation
@@ -56,7 +57,7 @@
 
     c. Sum up the total probability of each team:
     
-        totalProbability  = [probability of team A] + [probability of team B] + ... + [probability of team N], where N is the number of teams
+        totalProbability  = [probability of team 1] + [probability of team 2] + ... + [probability of team N], where N is the number of teams
 
     d. Calculate the percentage prediction for each team using below formula:
     
