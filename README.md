@@ -4,7 +4,7 @@ Following are the functionalities covered:
 
 - Simulation on clicking Next week button
 - Simulation on clicking Play All
-- Prediction for each team from 4th week
+- Prediction for each team from 4th week (Configurable)
 - Edit for match results for each week
 - Reset of data
 - PHPUnit tests
@@ -28,14 +28,14 @@ For more information, check ```docs/Information.md```
 - MySQL
 - GIT
 - Composer
-- Npm
+- NPM
 
 ## How to install
 
 - Do the git clone of the project
 
 ```
-git clone <git-project-url>
+git clone https://github.com/b-gaykawad/league-simulator.git
 ```
 
 
